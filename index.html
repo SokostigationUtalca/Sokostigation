@@ -9,7 +9,7 @@
     <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/SokobanWeb.json", {onProgress: UnityProgress});
+      var unityInstance = UnityLoader.instantiate("gameContainer", "Build/SokobanWeb.json", {onProgress: UnityProgress});
     </script>
   </head>
   <body>
@@ -17,7 +17,7 @@
       <div id="gameContainer" style="width: 960px; height: 600px"></div>
       <div class="footer">
         <div class="webgl-logo"></div>
-        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
         <div class="title">Sokostigation</div>
       </div>
     </div>
@@ -26,7 +26,9 @@
 
     <!-- TODO: Add SDKs for Firebase products that you want to use
         https://firebase.google.com/docs/web/setup#available-libraries -->
-        
+    <!-- Add Firebase products that you want to use -->
+    
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-database.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-analytics.js"></script>
 
@@ -48,5 +50,4 @@
       firebase.analytics();
     </script>
   </body>
-  
 </html>
