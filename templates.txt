@@ -1,101 +1,119 @@
-00000
-0   0
-0   0
-0   0
-00000
+XXXXX
+X   X
+X   X
+X   X
+XXXXX
+;template1
 
-00000
-0#  0
-0   0
-0   0
-00000
+XXXXX
+X#  X
+X   X
+X   X
+XXXXX
+;template2
 
-000  
-0##  
-0   0
-0   0
-00000
+XXX  
+X##  
+X   X
+X   X
+XXXXX
+;template3
 
-00000
-0###0
-0   0
-0   0
-00000
+XXXXX
+X###X
+X   X
+X   X
+XXXXX
+;template4
 
-00000
-0###0
-0#  0
-0#  0
-00000
+XXXXX
+X###X
+X#  X
+X#  X
+XXXXX
+;template5
 
-00 00
-0#  0
-    0
-0  #0
-00000
+XX XX
+X#  X
+    X
+X  #X
+XXXXX
+;template6
 
-00000
-0#  0
-    0
-0#  0
-00000
+XXXXX
+X#  X
+    X
+X#  X
+XXXXX
+;template7
 
-00 00
-0#  0
-    0
-0# #0
-00 00
+XX XX
+X#  X
+    X
+X# #X
+XX XX
+;template8
 
-00 00
-0# #0
+XX XX
+X# #X
      
-0# #0
-00 00
+X# #X
+XX XX
+;template9
 
-00 00
-0# #0
-0#   
-0###0
-00000
+XX XX
+X# #X
+X#   
+X###X
+XXXXX
+;template10
 
-00000
-0###0
+XXXXX
+X###X
      
-0###0
-00000
+X###X
+XXXXX
+;template11
 
-00000
-0    
-0 #  
-0   0
-00000
+XXXXX
+X    
+X #  
+X   X
+XXXXX
+;template12
 
-00000
-0###0
-0###0
-0###0
-00000
 
-00000
-0###0
-0#  0
-    0
-  000
+XXXXX
+X###X
+X###X
+X###X
+XXXXX
+;template13
 
-0 0 0
-0   0
-0# #0
-0   0
-0 0 0
+XXXXX
+X###X
+X#  X
+    X
+  XXX
+;template14
 
-00000
-0###0
-0###0
-0   0
-0   0
+X X X
+X   X
+X# #X
+X   X
+X X X
+;template15
 
-00000
-0###0
+XXXXX
+X###X
+X###X
+X   X
+X   X
+;template16
+
+XXXXX
+X###X
   #  
-0   0
-0  00
+X   X
+X  XX
+;template17
