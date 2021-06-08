@@ -1,30 +1,47 @@
-XXXXX
-X   X
-X   X
-X   X
-XXXXX
-;template1
+X#####XXXX
+##  ######
+#  $ $   #
+#    #.  #
+##@#### ##
+X#   #. ##
+## # #$$ #
+# ** # ..#
+#  *## $$#
+##    .. #
+X#####   #
+XXXXX#####
+;Murase 1
 
-XXXXX
-X#  X
-X   X
-X   X
-XXXXX
-;template2
+X######XX
+##    ##X
+#  ##  #X
+# #  # #X
+#.  .#$##
+# # * $ #
+# # * $@#
+#  .. $ #
+#########
+;Murase 2
 
-XXX  
-X##  
-X   X
-X   X
-XXXXX
-;template3
+########
+#   *  #
+# * .  #
+# *** ##
+# $ * #X
+## @  #X
+X######X
+;Murase 3
 
-XXXXX
-X###X
-X   X
-X   X
-XXXXX
-;template4
+#####XXXX
+#   ##XXX
+# *$ ##XX
+#@ *  ##X
+# .#$  #X
+## ...$##
+X### $* #
+XXX#    #
+XXX######
+;Murase 4
 
 XXXXX
 X###X
