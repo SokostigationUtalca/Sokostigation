@@ -1,0 +1,69 @@
+XXXXXXX####
+XXX#####  #
+XXX#  #   #
+####  #   #
+#   #   ###
+#@OOOOO #XX
+##### G #XX
+XXXX#####XX
+;Steps: 5
+
+XXXXXXX####
+XXX#####  #
+XXX#  #   #
+####  #G  #
+#   # OO###
+#@OOOOO #XX
+#####   #XX
+XXXX#####XX
+;Steps: 7
+
+XXXXXXX####
+XXX#####  #
+XXX#  #   #
+####  #   #
+#   #GO ###
+#@OOOOO #XX
+#####   #XX
+XXXX#####XX
+;Steps: 6
+
+XXXXXXX####
+XXX#####  #
+XXX# G#   #
+#### O#   #
+#   #OO ###
+#@OOOOO #XX
+#####   #XX
+XXXX#####XX
+;Steps: 8
+
+XXXXXXX####
+XXX#####  #
+XXX#  #   #
+####  #   #
+#   #   ###
+#@OOOOOG#XX
+#####   #XX
+XXXX#####XX
+;Steps: 5
+
+XXXXXXX####
+XXX#####  #
+XXX#  #G  #
+####  #O  #
+#   # OO###
+#@OOOOO #XX
+#####   #XX
+XXXX#####XX
+;Steps: 8
+
+XXXXXXX####
+XXX#####  #
+XXX#  #   #
+#### G#   #
+#   #OO ###
+#@OOOOO #XX
+#####   #XX
+XXXX#####XX
+;Steps: 7
