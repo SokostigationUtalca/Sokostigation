@@ -4,14 +4,14 @@ XXX#  #   #
 ####  #   #
 #   #   ###
 #@OOOOO #XX
-##### G #XX
+##### . #XX
 XXXX#####XX
 ;Steps: 5
 
 XXXXXXX####
 XXX#####  #
 XXX#  #   #
-####  #G  #
+####  #.  #
 #   # OO###
 #@OOOOO #XX
 #####   #XX
@@ -22,7 +22,7 @@ XXXXXXX####
 XXX#####  #
 XXX#  #   #
 ####  #   #
-#   #GO ###
+#   #.O ###
 #@OOOOO #XX
 #####   #XX
 XXXX#####XX
@@ -30,7 +30,7 @@ XXXX#####XX
 
 XXXXXXX####
 XXX#####  #
-XXX# G#   #
+XXX# .#   #
 #### O#   #
 #   #OO ###
 #@OOOOO #XX
@@ -43,14 +43,14 @@ XXX#####  #
 XXX#  #   #
 ####  #   #
 #   #   ###
-#@OOOOOG#XX
+#@OOOOO.#XX
 #####   #XX
 XXXX#####XX
 ;Steps: 5
 
 XXXXXXX####
 XXX#####  #
-XXX#  #G  #
+XXX#  #.  #
 ####  #O  #
 #   # OO###
 #@OOOOO #XX
@@ -61,7 +61,7 @@ XXXX#####XX
 XXXXXXX####
 XXX#####  #
 XXX#  #   #
-#### G#   #
+#### .#   #
 #   #OO ###
 #@OOOOO #XX
 #####   #XX
