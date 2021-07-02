@@ -1,69 +1,99 @@
-XXXXXXX####
-XXX#####  #
-XXX#  #   #
-####  #   #
-#   #   ###
-#@OOOOO #XX
-##### . #XX
-XXXX#####XX
+X##########
+X#  #     #
+X#  #   #G#
+X#  ### OO#
+X#    # O #
+X#      @ #
+X#     ####
+X#######XXX
+;Steps: 3
+
+X##########
+X#  #     #
+X#  #@OO# #
+X#  ###O  #
+X#    #G  #
+X#        #
+X#     ####
+X#######XXX
+;Steps: 3
+
+X##########
+X#  #     #
+X#  #@OO# #
+X# G###O  #
+X# OO #O  #
+X#  OOOO  #
+X#     ####
+X#######XXX
+;Steps: 10
+
+X##########
+X#  # GO  #
+X#  #  O# #
+X#  ###OO #
+X#    # O #
+X#      @ #
+X#     ####
+X#######XXX
 ;Steps: 5
 
-XXXXXXX####
-XXX#####  #
-XXX#  #   #
-####  #.  #
-#   # OO###
-#@OOOOO #XX
-#####   #XX
-XXXX#####XX
+X##########
+X#  #     #
+X#  #@OO# #
+X#  ###O  #
+X#    #O  #
+X#  GOOO  #
+X#     ####
+X#######XXX
 ;Steps: 7
 
-XXXXXXX####
-XXX#####  #
-XXX#  #   #
-####  #   #
-#   #.O ###
-#@OOOOO #XX
-#####   #XX
-XXXX#####XX
-;Steps: 6
+X##########
+X# G#     #
+X# O#@OO# #
+X# O###O  #
+X# OO #O  #
+X#  OOOO  #
+X#     ####
+X#######XXX
+;Steps: 12
 
-XXXXXXX####
-XXX#####  #
-XXX# .#   #
-#### O#   #
-#   #OO ###
-#@OOOOO #XX
-#####   #XX
-XXXX#####XX
+X##########
+X#  #     #
+X#  #@OO# #
+X#  ###O  #
+X#    #O  #
+X# OOOOO  #
+X# OOG ####
+X#######XXX
+;Steps: 11
+
+X##########
+X#  #     #
+X#  #@OO# #
+X#  ###O  #
+X#    #O  #
+X# GOOOO  #
+X#     ####
+X#######XXX
 ;Steps: 8
 
-XXXXXXX####
-XXX#####  #
-XXX#  #   #
-####  #   #
-#   #   ###
-#@OOOOO.#XX
-#####   #XX
-XXXX#####XX
-;Steps: 5
+X##########
+X#  #     #
+X# G#@OO# #
+X# O###O  #
+X# OO #O  #
+X#  OOOO  #
+X#     ####
+X#######XXX
+;Steps: 11
 
-XXXXXXX####
-XXX#####  #
-XXX#  #.  #
-####  #O  #
-#   # OO###
-#@OOOOO #XX
-#####   #XX
-XXXX#####XX
-;Steps: 8
-
-XXXXXXX####
-XXX#####  #
-XXX#  #   #
-#### .#   #
-#   #OO ###
-#@OOOOO #XX
-#####   #XX
-XXXX#####XX
-;Steps: 7
+X##########
+X#  #     #
+X#  #@OO# #
+X#  ###O  #
+X#    #O  #
+X# OOOOO  #
+X# OOOG####
+X#######XXX
+;SDS
