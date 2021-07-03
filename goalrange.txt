@@ -6,7 +6,27 @@
 # $OO# #
 #   OOG#
 ########
-;combinacion
+;combinacion1
+
+########
+#  GO  #
+#   O# #
+#  #G  #
+####O  #
+#@$$O# #
+#      #
+########
+;crossover sin solu
+
+########
+#  GO  #
+#   O# #
+#  #G  #
+####O  #
+#@$O$# #
+#      #
+########
+;crossover con solu
 
 ########
 #GOOO  #
