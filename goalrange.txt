@@ -59,12 +59,22 @@
 ;crossover sin solu
 
 ########
-#  GO  #
-#   O# #
-#  #G  #
-####O  #
-#@$O$# #
-#      #
+#  .O$O#
+#   O#O#
+#  #O O#
+####O O#
+#@$OO#O#
+#     .#
+########
+;crossover con solu
+
+########
+#    $O#
+#    #O#
+#  #  O#
+####  O#
+#@   #O#
+#     .#
 ########
 ;crossover con solu
 
